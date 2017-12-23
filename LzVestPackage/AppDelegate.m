@@ -17,8 +17,6 @@
 
 #define kJpushAppKey @"01dd5f4ad813d5a87c43a47f"
 
-#define LzAndZkURL @"www.baidu.com"
-#define LzAndZkPARAM @{@"app_id":@"12"}
 
 #define AppStoreID @"1322778123"
 
